@@ -1,7 +1,8 @@
 # Examen introducción a la programación
 
-## Sistema de cajero automático
-
 Objetivo del examen:
 
-- Poner en práctica funciones, condicionales y ciclos repetitivos.
+- Crear un sistema de un cajero automático
+- Implementar el uso de funciones `def` 
+- Implementar el uso de condicionales como el `if/else` y el `match`
+- Implementar el uso de ciclos repetitivos como `while`
